@@ -31,7 +31,7 @@ A busca Dichotomous aprimora a busca exaustiva ao reduzir o intervalo de forma m
 <img width="700" height="525" alt="473218262-9fa3c4fb-c9a8-4d07-8a0a-81dac6e36687" src="https://github.com/user-attachments/assets/0d151be7-e800-4e16-b8eb-e92055a5d0c9" />
 
 #### 3. Busca Fibonacci (`Fibonacci_search.m`)
-O método de busca Fibonacci é conhecido por ser o mais eficiente entre os métodos de busca em termos do número de avaliações da função para atingir uma dada precisão[cite: 613]. Ele utiliza a sequência de Fibonacci para determinar a posição dos pontos de teste a cada iteração. Uma característica única é que o número total de iterações, `n`, deve ser definido a priori. A grande vantagem é que, a partir da segunda iteração, apenas uma nova avaliação da função é necessária para reduzir o intervalo de incerteza, reutilizando um dos pontos da iteração anterior. O gráfico a seguir mostra o ponto de mínimo encontrado:
+O método de busca Fibonacci é conhecido por ser o mais eficiente entre os métodos de busca em termos do número de avaliações da função para atingir uma dada precisão. Ele utiliza a sequência de Fibonacci para determinar a posição dos pontos de teste a cada iteração. Uma característica única é que o número total de iterações, `n`, deve ser definido a priori. A grande vantagem é que, a partir da segunda iteração, apenas uma nova avaliação da função é necessária para reduzir o intervalo de incerteza, reutilizando um dos pontos da iteração anterior. O gráfico a seguir mostra o ponto de mínimo encontrado:
 
 <img width="700" height="525" alt="473218293-b113e6c9-7a96-462f-b25c-edf19dfc9688" src="https://github.com/user-attachments/assets/121fd565-317e-4528-ae19-3f7cc786acdf" />
 
